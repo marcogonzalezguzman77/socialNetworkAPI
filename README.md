@@ -8,6 +8,6 @@ This is a Social Network API BackEnd that was made with NoSQL Database MongoDb a
 
 
 You can watch the functionality in the next video:
-[Tech Blog Video](https://youtu.be/RZZmUdC15cg)
+[Social Network API Video](https://youtu.be/RZZmUdC15cg)
 
 
